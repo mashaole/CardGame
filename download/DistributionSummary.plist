@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Helloworld1.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>96C19F9BB2E881A5ACFBDAEC2977DE9E455F5A81</string>
+				<key>dateExpires</key>
+				<string>2021/08/07</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>K57J9MCVGS.com.iotnxt.first.Helloworld1</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>K57J9MCVGS</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>K57J9MCVGS.com.iotnxt.first.Helloworld1</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Helloworld1.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1ab11653-979f-4a10-8e8c-3718a12d5a45</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>K57J9MCVGS</string>
+				<key>name</key>
+				<string>IoT.nxt Pty Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
