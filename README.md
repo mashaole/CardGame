@@ -1,4 +1,4 @@
 # CardGame
 A Cargame created using swift
 
-![alt-text](https://github.com/mashaole/CardGame/blob/master/cardview.mp4)
+![alt-text](https://github.com/mashaole/CardGame/blob/master/cardgame.gif)
