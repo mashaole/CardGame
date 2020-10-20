@@ -2,7 +2,7 @@
 A Cargame created using swift
 
 # Download 
-To download IPA file [click her](https://github.com/mashaole/CardGame/blob/master/download/Helloworld1.ipa)
+To download IPA file [click here](https://github.com/mashaole/CardGame/blob/master/download/Helloworld1.ipa)
 
 # Prerequisites
  * XCode 11 (this is the one i used)
